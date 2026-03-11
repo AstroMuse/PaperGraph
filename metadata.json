@@ -1,0 +1,5 @@
+{
+  "name": "PaperGraph - 论文逻辑关系可视化工具",
+  "description": "一个用于可视化论文之间逻辑推理关系的工具，支持拖拽PDF、编辑节点信息及力引导图展示。",
+  "requestFramePermissions": []
+}
